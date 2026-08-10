@@ -11,7 +11,10 @@ loginBtn.addEventListener('click', () => {
   loginModal.classList.add('flex');
 });
 
-
+signupBtn.addEventListener('click', () => {
+  signupModal.classList.remove('hidden');
+  signupModal.classList.add('flex');
+});
 
 closeLogin.addEventListener('click', () => loginModal.classList.add('hidden'));
 closeSignup.addEventListener('click', () => signupModal.classList.add('hidden'));
