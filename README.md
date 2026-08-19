@@ -46,16 +46,16 @@ In modern education and corporate training, content creation is often a bottlene
 
 ## ✨ Key Features
 
-### 🤖 Intelligent NLP Pipeline
+### Intelligent NLP Pipeline
 * **Context-Aware Parsing:** Understands the core subject matter of the input text rather than just keyword matching.
 * **Distractor Generation:** Automatically creates plausible, challenging incorrect options for Multiple Choice Questions.
 
-### 🔀 Multi-Format Generation
+### Multi-Format Generation
 * **Multiple Choice (MCQs):** Tests conceptual understanding and analytical skills.
 * **True/False:** Rapid-fire factual assessment.
 * **Fill in the Blanks:** Tests specific vocabulary, dates, formulas, or key entities.
 
-### 🎛️ Granular User Control
+### Granular User Control
 * **Dynamic Quantity Allocation:** Need 10 MCQs, 5 True/False, and 2 Fill-in-the-Blanks? The system scales to your exact numerical input.
 * **Difficulty Tuning:** (Configurable) Adjust the complexity of the generated questions based on target audience.
 
@@ -102,3 +102,12 @@ Follow these steps to set up the project on your local machine for development a
    ```bash
    git clone [https://github.com/](https://github.com/)[YourUsername]/ai-text-to-quiz-generator.git
    cd ai-text-to-quiz-generator
+
+
+   <div align="center">
+
+## ⭐ If you like this project, consider giving it a star!
+
+**Designed & Developed with ❤️ for modern enterprise analytics.**
+
+</div>
