@@ -19,10 +19,7 @@ This project is a **Quiz Generator** that allows the user to create custom quizz
 
 ## **Usage**
 
-1. **Run the Program**
-2. **Select the Question Types** you want in your quiz
-3. **Enter the Quantity** of questions for each type
-4. **Start the Quiz** and test your knowledge
+1. 
 
 ## **Purpose**
 
