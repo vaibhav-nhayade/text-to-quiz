@@ -10,7 +10,9 @@ This project is a **Quiz Generator** that allows the user to create custom quizz
 
 ## **Features**
 
-
+* **Three Question Types** (e.g., Multiple Choice, True/False, Fill in the Blanks)
+* **User-defined Quantity** for each question type
+* **Automatic Quiz Generation** based on preferences
 * **Interactive Interface** for smooth user experience
 
 ---
