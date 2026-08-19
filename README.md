@@ -2,9 +2,7 @@
 **RC Patel Institute of Technology, Shirpur.** <br>
 **Department of AI & DS – Semester 3**
 
-## **Overview**
 
-This project is a **Quiz Generator** that allows the user to create custom quizzes based on their input. The user can select from **three types of questions** and specify the **number of questions** for each type. The system then generates a quiz accordingly.
 
 ---
 
