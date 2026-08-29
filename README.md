@@ -72,41 +72,7 @@ The project follows a modular, three-tier architecture:
    * *Prompt Engineering:* Passes structured prompts to the AI model to yield precise JSON-formatted question data.
 3. **Output / Delivery Layer:** Parses the AI's response and renders it in a user-friendly, interactive quiz format.
 
----
-
-## 🛠️ Tech Stack
-
-**Core Language:** Python 3.x  
-**AI & NLP:**  
-* [Specify your AI tool, e.g., OpenAI API / HuggingFace Transformers / spaCy / NLTK]  
-**Frontend / Interface:**  
-* [Specify your UI, e.g., Streamlit / Gradio / Flask / Tkinter]  
-**Data Processing:** Pandas, Regex, JSON  
-
-*(Note: Please update the brackets above with the exact libraries you used in your project.)*
-
----
-
-## 🚀 Getting Started
-
-Follow these steps to set up the project on your local machine for development and testing purposes.
-
-### Prerequisites
-* [Python 3.8 or higher](https://www.python.org/downloads/)
-* Git installed on your system
-* An active API key (if using a cloud-based LLM like OpenAI or Gemini)
-
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/](https://github.com/)[YourUsername]/ai-text-to-quiz-generator.git
-   cd ai-text-to-quiz-generator
-
-
-   <div align="center">
-
-## ⭐ If you like this project, consider giving it a star!
+--- 
 
 **Designed & Developed with ❤️ for modern enterprise analytics.**
 
