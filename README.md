@@ -71,6 +71,8 @@ The project follows a modular, three-tier architecture:
    * *Prompt Engineering:* Passes structured prompts to the AI model to yield precise JSON-formatted question data.
 3. **Output / Delivery Layer:** Parses the AI's response and renders it in a user-friendly, interactive quiz format.
 
+   -vrn
+
 --- 
 
 **Designed & Developed with ❤️ for modern enterprise analytics.**
