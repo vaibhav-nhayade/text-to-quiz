@@ -1,23 +1,4 @@
 ```python
-"""
-AI Text-to-Quiz Generator Backend
-
-API:
-    GET  /api/health
-    POST /api/generate
-
-POST /api/generate body:
-{
-    "text": "at least 100 words...",
-    "type": "MCQ",
-    "count": 10
-}
-
-Supported question types:
-    MCQ
-    FIB
-    T/F
-"""
 
 from __future__ import annotations
 
