@@ -27,7 +27,18 @@ closeSignup.addEventListener('click', () => signupModal.classList.add('hidden'))
 
 
 // ================== SIGNUP LOGIC ================== //
+const signupForm = signupModal.querySelector('form');
+signupForm.addEventListener('submit', (e) => {
+  e.preventDefault();
 
+  const name = signupForm.querySelector('input[placeholder="Full name"]').value.trim();
+  const email = signupForm.querySelector('input[placeholder="Email"]').value.trim().toLowerCase();
+  const password = signupForm.querySelector('input[placeholder="Password"]').value.trim();
+
+  if (!name || !email || !password) {
+    alert("Please fill all signup fields.");
+    return;
+  }
 
   let users = JSON.parse(localStorage.getItem("users")) || [];
 
